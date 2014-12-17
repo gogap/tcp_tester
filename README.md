@@ -28,6 +28,6 @@ Usage of tcp_tester
   -t=100: timeout to wait server response (shorthand)
   -timeout=100: timeout to wait server response
   -times=1: test times
-  -tt=1: test times (shorthand)
+  -n=1: test times (shorthand)
 ```
 
